@@ -1,0 +1,33 @@
+export const DARK_THEME = {
+  bgStart: '#08111A',
+  bgEnd: '#0B1622',
+  textMain: '#EAEAEA',
+  textMuted: '#6B7280',
+  glassBg: 'rgba(17, 28, 39, 0.85)',
+  glassBorder: 'rgba(255, 255, 255, 0.08)',
+  inputBg: 'rgba(255, 255, 255, 0.05)',
+  primaryBlue: '#0A84FF',
+  gold: '#D6AD55',
+  green: '#16B981',
+  red: '#EF4444',
+  cyan: '#00BFB3',
+  cyanBg: 'rgba(0, 191, 179, 0.15)',
+  cyanBorder: 'rgba(0, 191, 179, 0.3)',
+};
+
+export const LIGHT_THEME = {
+  bgStart: '#FAFAFA',
+  bgEnd: '#FFFFFF',
+  textMain: '#1C1C1C',
+  textMuted: '#888888',
+  glassBg: 'rgba(255, 255, 255, 0.9)',
+  glassBorder: 'rgba(0, 0, 0, 0.06)',
+  inputBg: 'rgba(0, 0, 0, 0.04)',
+  primaryBlue: '#0A84FF',
+  gold: '#D6AD55',
+  green: '#16B981',
+  red: '#EF4444',
+  cyan: '#00BFB3',
+  cyanBg: 'rgba(0, 191, 179, 0.15)',
+  cyanBorder: 'rgba(0, 191, 179, 0.3)',
+};
